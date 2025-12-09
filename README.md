@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam — Beginner Full Stack Developer (Learning)
 
-<!--
-**adam-price1/adam-price1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently studying full stack development and building small, practical projects to understand core web concepts. I enjoy web design, simple system builds, and learning step by step.
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm Learning
+- **Frontend:** HTML, CSS, JavaScript, React, Vite  
+- **Backend Basics:** APIs, simple script automation  
+- **Tools:** Git, GitHub, VS Code  
+- **Other Interests:** Business, UI design, project planning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Mission Ready Projects
+Here are the main projects I’ve worked on during Mission 5 and 6:
+
+- **AI Training API Script** — A simple script simulating an API call to understand backend basics.  
+- **Turners Insurance Website Build** — A front-end layout built from requirements with clean navigation and UI.  
+- **Z Energy Coffee Card Website** — A simple multi-page site with a digital coffee card concept.
+
+## 📚 Current Focus
+- Improving React skills  
+- Learning how APIs work  
+- Building clean, simple user interfaces  
+- Strengthening project structure and organisation  
+
+## 📫 Contact
+- LinkedIn: *(https://www.linkedin.com/in/adam-price-4a72a6301/)*  
+
