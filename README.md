@@ -5,7 +5,7 @@ I’m currently studying full stack development and building small, practical pr
 ## 🔧 Skills I'm Learning
 - **Frontend:** HTML, CSS, JavaScript, React, Vite  
 - **Backend Basics:** APIs, simple script automation  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code, Jira  
 - **Other Interests:** Business, UI design, project planning  
 
 ## 🧩 Mission Ready Projects
